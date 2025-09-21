@@ -60,7 +60,7 @@ Please obtain them from the original sources as noted below.
 - **Input System** (com.unity.inputsystem) — **License:** see package details  
 - **Cinemachine** (com.unity.cinemachine) — **License:** see package details  
 - **TextMeshPro** (com.unity.textmeshpro) — **License:** see package details  
-- **URP/HDRP (if used)** — **License:** see package details
+- **URP/HDRP** — **License:** see package details
 
 
 ## 3) How to Obtain & Import Third-Party Assets
