@@ -52,9 +52,8 @@ See [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md) for the list of third-p
 
 ## Quick Start (optional)
 1. Clone the repo and open the project in **Unity 6000.0.52f1**.
-2. Open scene: `Assets/Animator/Scenes/MainMenu.unity`.
+2. Open scene: `Assets/Animation/Scene/MainMenu.unity`.
 3. Press **Play**.
-4. Controls (example):
-   - **Player 1:** WASD (move), Mouse Move (camera), Mouse Click (attack).
+4. Controls: WASD (move), Mouse Move (camera), Mouse Click (attack).
 
 ---
