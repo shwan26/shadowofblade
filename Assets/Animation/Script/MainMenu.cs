@@ -8,6 +8,7 @@ public class MainMenuManager : MonoBehaviour
     {
         // Load the game scene. Make sure the scene name matches what you have in your Build Settings.
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        // SceneManager.LoadScene("FinalScene"); // Replace "GameScene" with your actual game scene name
     }
 
     // Call this method when the "Quit" button is clicked
