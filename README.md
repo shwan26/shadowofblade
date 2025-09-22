@@ -22,8 +22,6 @@ A Unity-built, third-person **sword-fighting** game where player **avoid deadly 
 ---
 
 ## Screenshots
-Place screenshots in `./Screenshots/` and update the links below.
-
 ![In-Game Fight](Screenshots/fight-gameplay.png)
 *Mid-fight with health bar.*
 
