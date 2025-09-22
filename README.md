@@ -36,6 +36,12 @@ Place screenshots in `./Screenshots/` and update the links below.
 
 ---
 
+## Video
+![Youtube Link](https://youtu.be/AdezLQJw0gw)
+
+## Itich.io
+![Shadow of Blade](https://shwan08.itch.io/shadowofblade)
+
 ## Licence
 
 ### Code
